@@ -4,12 +4,19 @@
 
 ---
 
-## 📸 Dashboard Preview
+# 📸 Dashboard Screenshots
 
-> **(Replace this after creating the collage image)**
+## Executive Dashboard
 
-![Dashboard Preview](Images/Dashboard_Preview.png)
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
+## Customer & Product Insights
+
+![Customer Product Insights](Images/Customer_Product_Insights.png)
+
+## Seller & Delivery Performance
+
+![Seller Delivery Performance](Images/Seller_Delivery_Performance.png)
 ---
 
 # 📌 Project Overview
